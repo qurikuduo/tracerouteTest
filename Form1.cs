@@ -3,8 +3,9 @@
  * Author: Dangzhang
  * Create Date: unknown
  * Description:
- * This is a traceroute GUI tools for windows users. It use a Taobao ip whois api to resolve an ip to it's geo-info.
- * This program use a traceroute Helper from http://www.fluxbytes.com/csharp/tracert-implementation-in-c/
+ * This is a traceroute GUI tool for windows users. It uses a Taobao ip whois api to resolve an ip to it's geo-info.
+ * This program uses a traceroute Helper from http://www.fluxbytes.com/csharp/tracert-implementation-in-c/
+ * Thanks to Halo. :)
  * Have fun.
  * Update:
  * //////////////////////////////////////////////////
