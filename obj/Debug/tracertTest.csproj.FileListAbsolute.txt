@@ -1,0 +1,10 @@
+D:\Dangzhang\vs\tracertTest\tracertTest\bin\Debug\tracertTest.exe
+D:\Dangzhang\vs\tracertTest\tracertTest\bin\Debug\tracertTest.pdb
+D:\Dangzhang\vs\tracertTest\tracertTest\obj\Debug\tracertTest.csprojResolveAssemblyReference.cache
+D:\Dangzhang\vs\tracertTest\tracertTest\obj\Debug\tracertTest.Form1.resources
+D:\Dangzhang\vs\tracertTest\tracertTest\obj\Debug\tracertTest.Properties.Resources.resources
+D:\Dangzhang\vs\tracertTest\tracertTest\obj\Debug\tracertTest.csproj.GenerateResource.Cache
+D:\Dangzhang\vs\tracertTest\tracertTest\obj\Debug\tracertTest.exe
+D:\Dangzhang\vs\tracertTest\tracertTest\obj\Debug\tracertTest.pdb
+D:\Dangzhang\vs\tracertTest\tracertTest\bin\Debug\dll\Newtonsoft.Json.dll
+D:\Dangzhang\vs\tracertTest\tracertTest\bin\Debug\Newtonsoft.Json.dll
