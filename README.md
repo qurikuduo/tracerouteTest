@@ -1,2 +1,2 @@
 # tracerouteTest
-This is a traceroute GUI tool for windows users which using Microsoft C#.
+This is a traceroute GUI tool for windows users using Microsoft C#.
